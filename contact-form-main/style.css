@@ -1,0 +1,30 @@
+body,
+.py-5 {
+    background-color: #E0F2E7;
+    overflow: hidden;
+}
+
+.container {
+    width: 662px;
+}
+
+form,
+main {
+    background-color: white;
+}
+
+.btn,
+.btn:hover {
+    background-color: #0B7D69;
+    border: none;
+}
+
+.star {
+    color: #0B7D69;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+}
